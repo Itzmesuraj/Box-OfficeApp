@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Box-officeApp/static/js/main.9fb57b95.chunk.js",
+    "main.js.map": "/Box-officeApp/static/js/main.9fb57b95.chunk.js.map",
+    "runtime-main.js": "/Box-officeApp/static/js/runtime-main.61718840.js",
+    "runtime-main.js.map": "/Box-officeApp/static/js/runtime-main.61718840.js.map",
+    "static/js/2.c4a63617.chunk.js": "/Box-officeApp/static/js/2.c4a63617.chunk.js",
+    "static/js/2.c4a63617.chunk.js.map": "/Box-officeApp/static/js/2.c4a63617.chunk.js.map",
+    "index.html": "/Box-officeApp/index.html",
+    "service-worker.js": "/Box-officeApp/service-worker.js",
+    "service-worker.js.map": "/Box-officeApp/service-worker.js.map",
+    "static/js/2.c4a63617.chunk.js.LICENSE.txt": "/Box-officeApp/static/js/2.c4a63617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61718840.js",
+    "static/js/2.c4a63617.chunk.js",
+    "static/js/main.9fb57b95.chunk.js"
+  ]
+}
